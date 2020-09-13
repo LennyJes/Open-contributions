@@ -1,16 +1,16 @@
 # Machine Learning Topics
 
-Linear Regression
+* Linear Regression
 
-Logistic Regression
+* Logistic Regression
 
-K- Nearest Neighbour
+* K- Nearest Neighbour
 
-Naive Bayes
+* Naive Bayes
 
-Random Forest
+* Random Forest
 
-Decision Trees
+* Decision Trees
 
-Convolutional Neural Network
+* Convolutional Neural Network
 
